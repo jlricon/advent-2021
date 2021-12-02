@@ -1,0 +1,7 @@
+[package]
+edition = "2021"
+name = "advent-2021"
+version = "0.1.0"
+[dependencies]
+itertools = "*"
+
